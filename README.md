@@ -1,7 +1,7 @@
 ## Hi there, I am Zihan Su! 👋
 
 - 👨‍🎓 Hi, I’m **Zihan Su**, currently a master student at [Tsinghua University](https://www.tsinghua.edu.cn/).  
-- 🏆 I have won several **ACM-ICPC** silver medals, received CCF Outstanding Undergraduate Award (top 99 nationwide), and ranked top 0.68% nationwide in CCF CSP.  
+- 🏆 I am interested in **competitive programming**. I have won several **ACM-ICPC** silver medals, received CCF Outstanding Undergraduate Award (top 99 nationwide), and ranked top 0.68% nationwide in CCF CSP.  
 - 🔭 My research focuses on **Controllability and Safety in Image/Video Generation**.  
 
 ## 📫 Contact  
