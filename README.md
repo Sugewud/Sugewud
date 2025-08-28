@@ -1,6 +1,6 @@
 ## Hi there, I am Zihan Su! 👋
 
-- 👨‍🎓 Hi, I’m **Zihan Su**, a master student at **Tsinghua University**, currently interning at **Tencent Weixin Group**.
+- 👨‍🎓 Hi, I'm **Zihan Su**, a master's student at **Tsinghua University**. I have interned at **Tencent Weixin Group** and **Alibaba**.
 - 🏆 I am interested in **competitive programming**. I have won several **ACM-ICPC** silver medals, received CCF Outstanding Undergraduate Award (top 99 nationwide), and ranked top 0.68% nationwide in CCF CSP.  
 - 🔭 My research focuses on **Image/Video Generation and Multimodal Large Language Models**.  
 
