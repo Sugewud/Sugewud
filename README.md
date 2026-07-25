@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Hi, I'm **Zihan Su**, a master student at **Tsinghua University**. I have interned at **Tencent**, **Alibaba**, and **ByteDance**.
 - 🏆 I am interested in **competitive programming**. I have won several **ACM-ICPC** silver medals, received CCF Outstanding Undergraduate Award (top 99 nationwide), and ranked top 0.68% nationwide in CCF CSP.  
-- 🔭 My research focuses on **Multimodal Generation and Understanding**.
+- 🔭 My research focuses on **World Models, Multimodal Generation and Understanding**.
 - 🌐 Personal Homepage: https://sugewud.github.io/
 
 ## 📫 Contact  
