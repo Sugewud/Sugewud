@@ -1,7 +1,7 @@
 ## Hi there, I am Zihan Su! 👋
 
 - 👨‍🎓 Hi, I'm **Zihan Su**, a master's student at **Tsinghua University**. I am currently a Foundation Model Research Intern at Joy Future Academy, working on world models and real-time interactive video generation.
-- 🌐 Personal Homepage: https://sugewud.github.io/
+- 🌐 Personal Homepage: https://zihan-su.github.io/
 - 🔭 My research interests include:
   - World Models & Real-Time Interactive Video Generation
   - Unified Multimodal Generation & Understanding
